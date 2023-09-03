@@ -21,9 +21,18 @@ class ResultViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         configLayout()
+        configResult()
+    }
+    
+    func configResult(){
+        guard let pointResult = pointResult else{
+            return
+        }
+        resultLabel.text = "Parabéns, você acrtou \(pointResult) de \(questions.count)"
     }
     
     func configLayout(){
         buttonReniciarQuiz.layer.cornerRadius = 12.0
+        navigationItem.hidesBackButton = true
     }
 }
