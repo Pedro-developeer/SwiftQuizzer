@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F1D9DED0-2221-4E89-930A-24FB38D5D9D1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFB65F3C-AEF8-4790-9F5C-C1B7DD8CF984"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftQuizzer/QuestionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "QuestionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DFB65F3C-AEF8-4790-9F5C-C1B7DD8CF984 - 72d6d8aba95f8048"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftQuizzer.QuestionViewController.titleQuestionLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SwiftQuizzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodev/projetos-ios/SwiftQuizzer/SwiftQuizzer/QuestionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "DFB65F3C-AEF8-4790-9F5C-C1B7DD8CF984 - d4c41d1ee1702c54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftQuizzer.QuestionViewController.titleQuestionLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SwiftQuizzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodev/projetos-ios/SwiftQuizzer/SwiftQuizzer/QuestionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DFB65F3C-AEF8-4790-9F5C-C1B7DD8CF984 - df502a2e2a9c2f45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftQuizzer.QuestionViewController.titleQuestionLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SwiftQuizzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodev/projetos-ios/SwiftQuizzer/SwiftQuizzer/QuestionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "DFB65F3C-AEF8-4790-9F5C-C1B7DD8CF984 - 238570f317eabef1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftQuizzer.QuestionViewController.titleQuestionLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SwiftQuizzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodev/projetos-ios/SwiftQuizzer/SwiftQuizzer/QuestionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "DFB65F3C-AEF8-4790-9F5C-C1B7DD8CF984 - 925fbe48c3df8d50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftQuizzer.QuestionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SwiftQuizzer.QuestionViewController"
+                  moduleName = "SwiftQuizzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodev/projetos-ios/SwiftQuizzer/SwiftQuizzer/QuestionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "DFB65F3C-AEF8-4790-9F5C-C1B7DD8CF984 - a685cf23e3bfb291"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftQuizzer.QuestionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SwiftQuizzer.QuestionViewController&gt;"
+                  moduleName = "SwiftQuizzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodev/projetos-ios/SwiftQuizzer/SwiftQuizzer/QuestionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "DFB65F3C-AEF8-4790-9F5C-C1B7DD8CF984 - 925fbe48c3df8d50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftQuizzer.QuestionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SwiftQuizzer.QuestionViewController"
+                  moduleName = "SwiftQuizzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodev/projetos-ios/SwiftQuizzer/SwiftQuizzer/QuestionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "DFB65F3C-AEF8-4790-9F5C-C1B7DD8CF984 - a685cf23e3bfb291"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftQuizzer.QuestionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SwiftQuizzer.QuestionViewController&gt;"
+                  moduleName = "SwiftQuizzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodev/projetos-ios/SwiftQuizzer/SwiftQuizzer/QuestionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82A99874-2470-4A54-83F1-5D01B006FDBA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftQuizzer/QuestionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "QuestionViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63F421D1-245A-42AE-AF59-98CF2F747FF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftQuizzer/QuestionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "QuestionViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
